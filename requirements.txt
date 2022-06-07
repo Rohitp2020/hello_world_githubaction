@@ -1,0 +1,10 @@
+flask
+pandas
+gunicorn
+PyYAML
+six
+dill
+
+
+#Package creation
+-e .
